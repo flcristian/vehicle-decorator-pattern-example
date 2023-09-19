@@ -1,0 +1,15 @@
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\bin\Debug\net6.0\vehicle-decorator-design-pattern-example.exe
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\bin\Debug\net6.0\vehicle-decorator-design-pattern-example.deps.json
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\bin\Debug\net6.0\vehicle-decorator-design-pattern-example.runtimeconfig.json
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\bin\Debug\net6.0\vehicle-decorator-design-pattern-example.dll
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\bin\Debug\net6.0\vehicle-decorator-design-pattern-example.pdb
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.csproj.AssemblyReference.cache
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.AssemblyInfoInputs.cache
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.AssemblyInfo.cs
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.dll
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\refint\vehicle-decorator-design-pattern-example.dll
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.pdb
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\vehicle-decorator-design-pattern-example.genruntimeconfig.cache
+D:\mycode\csharp\exceptii\vehicle-decorator-design-pattern-example\vehicle-decorator-design-pattern-example\obj\Debug\net6.0\ref\vehicle-decorator-design-pattern-example.dll
